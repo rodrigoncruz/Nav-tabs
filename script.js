@@ -14,6 +14,6 @@ tabMenu.forEach((itemMenu, index) => {
     itemMenu.addEventListener('click', () => {
         activeTab(index);
     });
-})
+});
 
 
