@@ -4,7 +4,19 @@ li {
     display: inline-block;
     margin-left: 30px;
     background-color: black;
-    color: #fff;
+    color: pink;
+    font-weight: 800;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h2 {
+    list-style-type: none;
+    cursor: pointer;
+    display: inline-block;
+    margin-left: 30px;
+    background-color: blanchedalmond;
+    color: blue;
     font-weight: 800;
     padding: 10px;
     border-radius: 10px;
